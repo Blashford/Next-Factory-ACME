@@ -1,11 +1,16 @@
 # bootcamp-project-1
 
 Acme Corp Data Analyst Team
+
 Blake Ashford
+
 Courtney Robison
+
 Ryan Simpson
+
 Lucienne Kaplan
-Savannah Pordry
+
+Savannah Cordry
 
 We are the Acme Corp Data Analyst Team and have been hired by Coyote inc to help them find a location
 for their newest factory.  We have been tasked with finding a location with the cheapest labor with the
