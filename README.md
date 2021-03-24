@@ -1,4 +1,4 @@
-# bootcamp-project-1
+# ACME's New Factory
 
 Acme Corp Data Analyst Team
 - Blake Ashford, Courtney Robison, Ryan Simpson, Lucienne Kaplan, Savannah Cordry
